@@ -36,10 +36,10 @@ img, picture, video, iframe, figure {
   display: block;
   /* opcional */
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   /* opcional */
   -o-object-position: center center;
-     object-position: center center;
+  object-position: center center;
 }
 
 /* Reseteamos los enlaces para funcionar como cajas... */
@@ -80,14 +80,14 @@ form, input, textarea, select, button, label {
   font-family: inherit;
   font-size: inherit;
   
- 
+
           /* hyphens: auto; */
   background-color: transparent;
   color: inherit;
   display: block;
   /* opcional */
   -webkit-appearance: none;
-     -moz-appearance: none;
+  -moz-appearance: none;
           appearance: none;
 }
 
